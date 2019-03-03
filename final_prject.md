@@ -13,7 +13,7 @@ St. Louis City is divided into 79 neighborhoods. Based on data from Wikipedia, t
 Following three data sources will be used to for the purpose of this project.
 
 - Wikipedia - To gather initial dataset for the neighborhood
-  ** https://en.wikipedia.org/wiki/List_of_neighborhoods_of_St._Louis**
+  https://en.wikipedia.org/wiki/List_of_neighborhoods_of_St._Louis
 - St. Louis Metro Police Dept. Crime Statistics for 2018
 - Foursquare API for data gathering for St. Louis.
 
